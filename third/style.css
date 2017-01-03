@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    height: 100vh;
+}
+
+body>div {
+    width: 100%;
+}
+
+.div1 {
+    height: calc(75vh/5);
+    background-color: #ccc;
+    padding-left: 20px;
+    padding-top: 2%;
+}
+
+.little-box {
+    width: 100px;
+    height: 80%;
+    background-color: rgb(59, 122, 218);
+}
+
+.div2 {
+    height: 25vh;
+    font-size: 1.3em;
+    padding: 60px;
+}
+
+.div3 {
+    height: calc(75vh/5);
+    background-color: rgb(59, 122, 218);
+}
+
+.div4 {
+    height: calc(75vh/5);
+    background-color: rgb(71, 224, 181);
+}
+
+.div5 {
+    height: calc(75vh/5);
+    background-color: rgb(171, 231, 115);
+}
+
+.div6 {
+    height: calc(75vh/5);
+    background-color: rgb(246, 229, 24);
+}
